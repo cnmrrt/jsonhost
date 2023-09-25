@@ -1,0 +1,38 @@
+{
+    "elements": [
+        {
+            "a_number": "1",
+            "e_id": "h",
+            "e_name_en": "Hydrogen",
+            "e_name_tr": "Hidrojen",
+            "e_name_de": "0x57617373657273746f6666",
+            "e_name_fr": "0x",
+            "e_name_ru": "0xd0b2d0bed0b4d0bed180d0bed0b4",
+            "e_name_es": "Hidrógeno",
+            "symbol": "H",
+            "e_configuration": "1s<sup>1<\/sup>",
+            "e_configuration_long": "1s<sup>1<\/sup>",
+            "atomic_mass": "1.00784",
+            "density": "0",
+            "melting_point_celcius": "-259.14",
+            "boiling_point_celcius": "-252.87"
+        },
+        {
+            "a_number": "2",
+            "e_id": "he",
+            "e_name_en": "Helium",
+            "e_name_tr": "Helyum",
+            "e_name_de": "0x48656c69756d",
+            "e_name_fr": "0x",
+            "e_name_ru": "0xd0b3d0b5d0bbd0b8d0b9",
+            "e_name_es": "",
+            "symbol": "He",
+            "e_configuration": "1s<sup>2<\/sup>",
+            "e_configuration_long": "1s<sup>2<\/sup>",
+            "atomic_mass": "4.002602",
+            "density": "0",
+            "melting_point_celcius": "-272.2",
+            "boiling_point_celcius": "-268.9"
+        }
+        ]
+}
